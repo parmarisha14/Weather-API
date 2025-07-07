@@ -1,0 +1,13 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: #f8f9fa;
+}
+
+.card {
+    border-radius: 1.5rem;
+    background: white;
+}
+
+#weatherIcon {
+    max-height: 100px;
+}
